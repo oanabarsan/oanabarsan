@@ -1,6 +1,5 @@
 # 💫 About Me:
- Hello 👩‍💻 <br> I'm glad you landed on my Github profile.<br> I'm Oana and I'm looking for a Junior Manual Tester role as I currently graduated from a Manual Testing course by CodersLab.<br> As you can see, my knowledge did not limit to manual testing area and you can find some HTML and CSS little projects in my repositories.
-
+ Hello 👩‍💻 <br> I'm glad you landed on my Github profile.<br> I'm Oana and I'm looking for a Junior Manual Tester role as I recently graduated from a Manual Testing course by CodersLab.<br> Currently, I am attending an Automation course by 4mayo Academy and I am looking forward to improving my knowledge in testing field.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/oana.barsan.5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oana-maria-b%C3%A2rsan-534b0b173/) 
